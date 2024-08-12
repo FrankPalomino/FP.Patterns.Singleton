@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Singleton.Exerc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Singleton.Exercice3", "..\FP.Patterns.Singleton.Exercice3\FP.Patterns.Singleton.Exercice3.csproj", "{59D56790-CF98-4394-A218-4591A5E0EEC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Singleton.Exercice4", "..\FP.Patterns.Singleton.Exercice4\FP.Patterns.Singleton.Exercice4.csproj", "{618D40BF-8997-4799-9B86-7009334631F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Singleton.Exercice4", "..\FP.Patterns.Singleton.Exercice4\FP.Patterns.Singleton.Exercice4.csproj", "{618D40BF-8997-4799-9B86-7009334631F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Singleton.Exercice5", "..\FP.Patterns.Singleton.Exercice5\FP.Patterns.Singleton.Exercice5.csproj", "{91E4398B-CC9C-4A65-A8A4-BD208479B529}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{618D40BF-8997-4799-9B86-7009334631F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{618D40BF-8997-4799-9B86-7009334631F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{618D40BF-8997-4799-9B86-7009334631F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E4398B-CC9C-4A65-A8A4-BD208479B529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E4398B-CC9C-4A65-A8A4-BD208479B529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E4398B-CC9C-4A65-A8A4-BD208479B529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E4398B-CC9C-4A65-A8A4-BD208479B529}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
